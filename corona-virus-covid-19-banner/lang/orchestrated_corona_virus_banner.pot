@@ -1,0 +1,213 @@
+# Copyright (C) 2020 Orchestrated
+# This file is distributed under the same license as the Corona Virus (COVID-19) Banner plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Corona Virus (COVID-19) Banner\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/src\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-03-26 00:11-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Poedit 2.3\n"
+"X-Domain: orchestrated-corona-virus-banner\n"
+
+#. Plugin Name of the plugin
+msgid "Corona Virus (COVID-19) Banner"
+msgstr ""
+
+#. Description of the plugin
+msgid "Display a notice to visitors about how your business/organization will respond to COVID-19."
+msgstr ""
+
+#. Author of the plugin
+msgid "Orchestrated"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.orchestrated.ca"
+msgstr ""
+
+#. notice_not_displaying
+msgid "Notice is currently set to not display to users. Choose \"Banner\" or \"Overlay\" to display the notice."
+msgstr ""
+
+#. notice_display_banner
+msgid "Notice is displaying on the website as a Banner. If you are experiencing display issues, try \"Overlay.\""
+msgstr ""
+
+#. notice_display_overlay
+msgid "Notice is displaying on the website as an Overlay."
+msgstr ""
+
+#. ocvb_title
+msgid "Simple Website Banner"
+msgstr ""
+
+#. ocvb_description
+msgid "This is a very simple plugin with a sole purpose of allowing website owners a quick way to add a COVID-19 notice to their website. See how <a href=\"https://google.org/crisisresponse/covid19-map\" target=\"_blank\">COVID-19 is impacting the world</a>."
+msgstr ""
+
+#. please_complete_notice
+msgid "Please complete all required fields."
+msgstr ""
+
+#. title
+msgid "Title"
+msgstr ""
+
+#. message
+msgid "Message"
+msgstr ""
+
+#. display
+msgid "Display"
+msgstr ""
+
+#. options
+msgid "Options"
+msgstr ""
+
+#. preview
+msgid "Preview"
+msgstr ""
+
+#. none
+msgid "None"
+msgstr ""
+
+#. banner
+msgid "Banner"
+msgstr ""
+
+#. overlay
+msgid "Overlay"
+msgstr ""
+
+#. design
+msgid "Design"
+msgstr ""
+
+#. styling
+msgid "Styling"
+msgstr ""
+
+#. required
+msgid "Required"
+msgstr ""
+
+#. yes
+msgid "Yes"
+msgstr ""
+
+#. no
+msgid "No"
+msgstr ""
+
+#. enter_notice_title
+msgid "Enter your notice title"
+msgstr ""
+
+#. enter_notice_text
+msgid "Enter your notice text"
+msgstr ""
+
+#. how_display_notice
+msgid "How would you like to display the notice?"
+msgstr ""
+
+#. link_url
+msgid "Link URL"
+msgstr ""
+
+#. link_label
+msgid "Link label"
+msgstr ""
+
+#. more_information
+msgid "More information"
+msgstr ""
+
+#. where_to_direct_users
+msgid "Where do you want to direct users for more information?"
+msgstr ""
+
+#. user_preferences
+msgid "User preferences"
+msgstr ""
+
+#. save_settings
+msgid "Save Settings"
+msgstr ""
+
+#. should_allowed_close_notice
+msgid "Should users be allowed to close the notice?"
+msgstr ""
+
+#. how_many_days_notice
+msgid "How many days before the notice re-appears?"
+msgstr ""
+
+#. use_0_to_never_reappear
+msgid "Use '0' to never re-appear"
+msgstr ""
+
+#. text_alignment
+msgid "Text alignment"
+msgstr ""
+
+#. foreground_color
+msgid "Foreground color"
+msgstr ""
+
+#. background_color
+msgid "Background color"
+msgstr ""
+
+#. custom_css
+msgid "Custom CSS"
+msgstr ""
+
+#. custom_css_mobile
+msgid "Custom CSS (mobile)"
+msgstr ""
+
+#. styles_not_applied_to_preview
+msgid "Note: Custom CSS is not applied to Preview."
+msgstr ""
+
+#. preview_not_available
+msgid "Once you have enabled \"Banner\" or \"Overlay\", a preview will appear here. See the \"Display\" tab to continue."
+msgstr ""
+
+#. left
+msgid "Left"
+msgstr ""
+
+#. right
+msgid "Right"
+msgstr ""
+
+#. center
+msgid "Center"
+msgstr ""
+
+#. justified
+msgid "Justified"
+msgstr ""
+
+#. default
+msgid "Default"
+msgstr ""
+
+#. no_link
+msgid "No link"
+msgstr ""
+
+#. Link to another website
+msgid "Link to another website"
+msgstr ""
+

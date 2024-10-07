@@ -1,0 +1,237 @@
+# Copyright (C) 2020 Orchestrated
+# This file is distributed under the same license as the Corona Virus (COVID-19) Banner plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Corona Virus (COVID-19) Banner 1.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/src\n"
+"POT-Creation-Date: 2020-03-26 00:11-0400\n"
+"PO-Revision-Date: 2020-03-26 09:28-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Domain: orchestrated-corona-virus-banner\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin
+msgid "Corona Virus (COVID-19) Banner"
+msgstr "Corona Virus (COVID-19) Banner"
+
+#. Description of the plugin
+msgid ""
+"Display a notice to visitors about how your business/organization will "
+"respond to COVID-19."
+msgstr ""
+"Display a notice to visitors about how your business/organization will "
+"respond to COVID-19."
+
+#. Author of the plugin
+msgid "Orchestrated"
+msgstr "Orchestrated"
+
+#. Author URI of the plugin
+msgid "http://www.orchestrated.ca"
+msgstr "http://www.orchestrated.ca"
+
+#. notice_not_displaying
+msgid ""
+"Notice is currently set to not display to users. Choose \"Banner\" or "
+"\"Overlay\" to display the notice."
+msgstr ""
+"Notice is currently set to not display to users. Choose \"Banner\" or "
+"\"Overlay\" to display the notice."
+
+#. notice_display_banner
+msgid ""
+"Notice is displaying on the website as a Banner. If you are experiencing "
+"display issues, try \"Overlay.\""
+msgstr ""
+"Notice is displaying on the website as a Banner. If you are experiencing "
+"display issues, try \"Overlay.\""
+
+#. notice_display_overlay
+msgid "Notice is displaying on the website as an Overlay."
+msgstr "Notice is displaying on the website as an Overlay."
+
+#. ocvb_title
+msgid "Corona Virus Banner"
+msgstr "Simple Website Banner"
+
+#. ocvb_description
+msgid ""
+"This is a very simple plugin with a sole purpose of allowing website owners "
+"a quick way to add a COVID-19 notice to their website. See how <a href="
+"\"https://google.org/crisisresponse/covid19-map\" target=\"_blank\">COVID-19 "
+"is impacting the world</a>."
+msgstr ""
+"This is a very simple plugin with a sole purpose of allowing website owners "
+"a quick way to add a COVID-19 notice to their website. See how <a href="
+"\"https://google.org/crisisresponse/covid19-map\" target=\"_blank\">COVID-19 "
+"is impacting the world</a>."
+
+#. please_complete_notice
+msgid "Please complete all required fields."
+msgstr "Please complete all required fields."
+
+#. title
+msgid "Title"
+msgstr "Title"
+
+#. message
+msgid "Message"
+msgstr "Message"
+
+#. display
+msgid "Display"
+msgstr "Display"
+
+#. options
+msgid "Options"
+msgstr "Options"
+
+#. preview
+msgid "Preview"
+msgstr "Preview"
+
+#. none
+msgid "None"
+msgstr "None"
+
+#. banner
+msgid "Banner"
+msgstr "Banner"
+
+#. overlay
+msgid "Overlay"
+msgstr "Overlay"
+
+#. design
+msgid "Design"
+msgstr "Design"
+
+#. styling
+msgid "Styling"
+msgstr "Styling"
+
+#. required
+msgid "Required"
+msgstr "Required"
+
+#. yes
+msgid "Yes"
+msgstr "Yes"
+
+#. no
+msgid "No"
+msgstr "No"
+
+#. enter_notice_title
+msgid "Enter your notice title"
+msgstr "Enter your notice title"
+
+#. enter_notice_text
+msgid "Enter your notice text"
+msgstr "Enter your notice text"
+
+#. how_display_notice
+msgid "How would you like to display the notice?"
+msgstr "How would you like to display the notice?"
+
+#. link_url
+msgid "Link URL"
+msgstr "Link URL"
+
+#. link_label
+msgid "Link label"
+msgstr "Link label"
+
+#. more_information
+msgid "More information"
+msgstr "More information"
+
+#. where_to_direct_users
+msgid "Where do you want to direct users for more information?"
+msgstr "Where do you want to direct users for more information?"
+
+#. user_preferences
+msgid "User preferences"
+msgstr "User preferences"
+
+#. save_settings
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#. should_allowed_close_notice
+msgid "Should users be allowed to close the notice?"
+msgstr "Should users be allowed to close the notice?"
+
+#. how_many_days_notice
+msgid "How many days before the notice re-appears?"
+msgstr "How many days before the notice re-appears?"
+
+#. use_0_to_never_reappear
+msgid "Use \"0\" to never re-appear"
+msgstr "Use \"0\" to never re-appear"
+
+#. text_alignment
+msgid "Text alignment"
+msgstr "Text alignment"
+
+#. foreground_color
+msgid "Foreground color"
+msgstr "Foreground colour"
+
+#. background_color
+msgid "Background color"
+msgstr "Background colour"
+
+#. custom_css
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#. custom_css_mobile
+msgid "Custom CSS (mobile)"
+msgstr "Custom CSS (mobile)"
+
+#. styles_not_applied_to_preview
+msgid "Note: Custom CSS is not applied to Preview."
+msgstr "Note: Custom CSS is not applied to Preview."
+
+#. preview_not_available
+msgid ""
+"Once you have enabled \"Banner\" or \"Overlay\", a preview will appear here. "
+"See the \"Display\" tab to continue."
+msgstr ""
+"Once you have enabled \"Banner\" or \"Overlay\", a preview will appear here. "
+"See the \"Display\" tab to continue."
+
+#. left
+msgid "Left"
+msgstr "Left"
+
+#. right
+msgid "Right"
+msgstr "Right"
+
+#. center
+msgid "Center"
+msgstr "Centre"
+
+#. justified
+msgid "Justified"
+msgstr "Justified"
+
+#. default
+msgid "Default"
+msgstr "Default"
+
+#. no_link
+msgid "No link"
+msgstr "No link"
+
+#. Link to another website
+msgid "Link to another website"
+msgstr "Link to another website"
